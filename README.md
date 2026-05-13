@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=¡Hi+everyone+,+I'm+Neyén+!;I'm+software+engineer;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=¡Hi+everyone+,+I'm+Ezequiel+!;I'm+software+engineer;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## Skills & Technologies
 - **Python:** Intermediate level — comfortable with scripting, automation, and problem-solving.
