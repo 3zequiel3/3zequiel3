@@ -8,7 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Ezequiel+Gonz%C3%A1lez;Desarrollador+de+software;Apasionado+por+la+IA+y+la+automatizaci%C3%B3n;Bienvenido+a+mi+perfil+de+GitHub)](https://git.io/typing-svg)
 
-# 👨‍💻 Ezequiel González
 
 💻 Desarrollador de software apasionado por la programación, la automatización y la inteligencia artificial.  
 🚀 Me gusta crear soluciones prácticas, aprender tecnologías nuevas y seguir mejorando constantemente.
@@ -19,32 +18,23 @@
 
 ## 🛠️ Tecnologías y habilidades
 
-- **Python** — nivel intermedio, con experiencia en scripting, automatización y resolución de problemas.
-- **Java** — nivel intermedio, con una base sólida en programación orientada a objetos y desarrollo de aplicaciones.
-- **SQL** — nivel básico/intermedio, con manejo de consultas, manipulación de datos y bases de datos relacionales.
+- **Python** — nivel intermedio, con experiencia en backend con FastAPI, clean arquitecture y Flask
+- **Postgress** — nivel intermedio, con manejo de consultas, manipulacion de datos y bases de datos relacionales junto a normalizacion de tablas.
+- **React** — nivel intermedio, con experiencia en la utilizacion de frameworks como Tanstack y Nextjs
+- **Despliegue e infraestructura** nivel intermedio/avanzado, con experiencia en despliegue en herramientas como Vercel y Railway como en servidores VPS 
+- **SQL** — nivel básico/intermedio, con manejo de consultas, manipulación de datos y bases de datos relacionales junto a normalizacion de tablas.
 
 ## 🤖 IA y automatización
 
 - **LLMs** — experiencia en prompt engineering e integración con modelos como **OpenAI** y **Claude**.
-- **Agentes de IA** — creación de flujos y agentes personalizados con **n8n** y **Agent-AI**.
-- **Automatización inteligente** — conocimientos en bases de datos vectoriales y automatizaciones para MVPs SaaS.
-
+- **Agentes de IA** — creación de flujos y utilizacion de subagentes para mejora de rendimiento y calidad de codigo.
+- **Spec Driven Development** — Conocimiento y utlizacion de la metodoligia SDD junto a herramientas como gentle-ai (https://github.com/Gentleman-Programming/gentle-ai)
 ## 📚 Sobre mí
 
-Me apasiona programar, aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer.  
-Mi rol como tutor en la **UTN** me ayudó a profundizar mis conocimientos enseñando a otros y a desarrollar una forma más clara de comunicar ideas técnicas.
-
+Me apasiona programar, aprender nuevas tecnologías y enfrentar desafíos que me permitan crecer.
 Siempre estoy abierto a colaborar en proyectos, compartir ideas y seguir construyendo cosas interesantes.
 
 ---
-
-## 🌐 Conectemos
-
-Podés explorar mis repositorios, ver en qué estoy trabajando y acompañar mi camino en el mundo del desarrollo.
-
----
-
-## ⚡ Un poco de estilo
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Cyber animation" width="100%" />
